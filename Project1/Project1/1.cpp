@@ -12,4 +12,6 @@ int main()
 
 	printf("%p %p \n", pi, &i);
 	printf("%p %p \n", pf, &f);
+	
+	return 0;
 }
